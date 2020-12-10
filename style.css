@@ -37,9 +37,9 @@ body {
 .title {
   color: #24315e;
   text-align: center;
-  margin-bottom: 100px;
+  margin-bottom: 70px;
   margin-top: 100px;
-  font-size: 80px;
+  font-size: 140px;
 }
 
 svg {
@@ -153,6 +153,7 @@ input[type="text"] {
   width: 450px;
   background: #a8d1e7;
   padding: 30px;
+  margin-top: 50px;
 }
 .wrapper .input-data{
   height: 40px;
